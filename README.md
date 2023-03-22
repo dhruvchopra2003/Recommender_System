@@ -3,6 +3,6 @@ This is a simple content based recommender system which reccommends movies on th
 
 Dataset Used: TMDB 3000
 
-To preview the final webapp, you can clone the repo run it using: 
+To preview the final webapp, you can clone the repo and run it using: 
 ```streamlit run main.py```
 
